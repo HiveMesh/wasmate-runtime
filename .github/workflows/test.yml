@@ -11,7 +11,7 @@ jobs:
   llmsframe_embeddings:
     strategy:
       matrix:
-        go-version: [1.22.x]
+        go-version: [1.24.0]
         os: [ubuntu-latest]
     runs-on: ${{ matrix.os }}
 #    env:

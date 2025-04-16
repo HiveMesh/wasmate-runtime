@@ -1,6 +1,6 @@
 module github.com/wasmate/wasmate-runtime
 
-go 1.22.2
+go 1.24.0
 
 require (
 	github.com/NethermindEth/juno v0.12.0
