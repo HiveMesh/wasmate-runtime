@@ -7,7 +7,7 @@ require (
 	github.com/NethermindEth/starknet.go v0.7.0
 	github.com/extism/go-sdk v1.7.1
 	github.com/go-chassis/go-archaius v1.5.6
-	github.com/gofiber/fiber/v2 v2.52.6
+	github.com/gofiber/fiber/v2 v2.52.8
 	github.com/google/uuid v1.6.0
 	github.com/ipfs/go-cid v0.5.0
 	github.com/ipfs/go-unixfsnode v1.10.1
