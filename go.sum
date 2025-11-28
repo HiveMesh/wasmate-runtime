@@ -37,8 +37,8 @@ github.com/Masterminds/sprig/v3 v3.2.3/go.mod h1:rXcFaZ2zZbLRJv/xSysmlgIM1u11eBa
 github.com/Microsoft/go-winio v0.6.2 h1:F2VQgta7ecxGYO8k3ZZz3RS8fVIXVxONVUPlNERoyfY=
 github.com/Microsoft/go-winio v0.6.2/go.mod h1:yd8OoFMLzJbo9gZq8j5qaps8bJ9aShtEA8Ipt1oGCvU=
 github.com/NYTimes/gziphandler v0.0.0-20170623195520-56545f4a5d46/go.mod h1:3wb06e3pkSAbeQ52E9H9iFoQsEEwGN64994WTCIhntQ=
-github.com/NethermindEth/juno v0.15.12 h1:paEF7MrxdQo9EnYGgXzvvR3EvQuo9ckQAzDUsI2f+FI=
-github.com/NethermindEth/juno v0.15.12/go.mod h1:DyfDC1vz8OpoAOWdGJif97Kueo4J7yhZUtYkkFUYg20=
+github.com/NethermindEth/juno v0.15.13 h1:2ndkdVCx0y9hC/sBwOv4zjkpafa3AT7cEKQNiqPIyMk=
+github.com/NethermindEth/juno v0.15.13/go.mod h1:DyfDC1vz8OpoAOWdGJif97Kueo4J7yhZUtYkkFUYg20=
 github.com/NethermindEth/starknet.go v0.7.0 h1:OmKkPs7EvS8uUkoxh+y/4xeluFx4fepZoqhczr51Y/c=
 github.com/NethermindEth/starknet.go v0.7.0/go.mod h1:k6qFeYocOAeY7sdF7oAaabvjXvmcVtBbLn7YE2azVyQ=
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
