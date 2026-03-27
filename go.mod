@@ -3,7 +3,7 @@ module github.com/wasmate/wasmate-runtime
 go 1.26.0
 
 require (
-	github.com/NethermindEth/juno v0.15.20
+	github.com/NethermindEth/juno v0.15.21
 	github.com/NethermindEth/starknet.go v0.7.0
 	github.com/extism/go-sdk v1.7.1
 	github.com/go-chassis/go-archaius v1.5.6
