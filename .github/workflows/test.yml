@@ -22,7 +22,7 @@ jobs:
       - name: Run Docker compose
         run:  docker compose up -d
       - name: Install Go
-        uses: actions/setup-go@v5
+        uses: actions/setup-go@v6
         with:
           go-version: ${{ matrix.go-version }}
       - name: Test
